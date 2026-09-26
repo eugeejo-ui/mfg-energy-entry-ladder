@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+data/raw/aihub_jeonnam/
+data/processed/jeonnam_*
