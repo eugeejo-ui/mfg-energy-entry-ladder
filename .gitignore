@@ -5,3 +5,5 @@ __pycache__/
 .DS_Store
 data/raw/aihub_jeonnam/
 data/processed/jeonnam_*
+.env
+data/raw/dart/
